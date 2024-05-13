@@ -4,29 +4,25 @@ TariqEstates is a full-stack real estate web application built with the MERN sta
 
 ![Screenshot 2024-05-13 at 9 48 10 AM](https://github.com/TariqKichawele/realestate_app/assets/105932024/9b882512-f163-4db1-9f17-6db42cdca2d4)
 
-Technologies Used
+**TECHNOLOGIES USED**
 
 **Frontend:**
-
-React.js: A JavaScript library for building user interfaces.
-Tailwind CSS: A utility-first CSS framework for quickly styling web applications.
+- React.js: A JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for quickly styling web applications.
 
 **Backend:**
-
-Node.js: A JavaScript runtime environment for building server-side applications.
-Express.js: A web application framework for Node.js, used for building RESTful APIs.
+-  Node.js: A JavaScript runtime environment for building server-side applications.
+- Express.js: A web application framework for Node.js, used for building RESTful APIs.
 
 **Database:**
-
-MongoDB: A NoSQL database used for storing property data.
+- MongoDB: A NoSQL database used for storing property data.
 
 **Features**
-
-User Authentication: Secure user authentication and authorization for accessing user-specific features and data.
-Property Listings: Browse, search, and filter through a wide range of property listings based on various criteria.
-Property Details: View detailed information, images, and specifications for individual properties.
-Listing Management: Allow property owners to list, edit, and manage their properties for sale or rent.
-Responsive Design: Fully responsive design ensures a consistent and user-friendly experience across devices.
+- User Authentication: Secure user authentication and authorization for accessing user-specific features and data.
+- Property Listings: Browse, search, and filter through a wide range of property listings based on various criteria.
+- Property Details: View detailed information, images, and specifications for individual properties.
+- Listing Management: Allow property owners to list, edit, and manage their properties for sale or rent.
+- Responsive Design: Fully responsive design ensures a consistent and user-friendly experience across devices.
 
 **Installation**
 
