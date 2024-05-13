@@ -6,21 +6,21 @@ TariqEstates is a full-stack real estate web application built with the MERN sta
 
 Technologies Used
 
-Frontend:
+**Frontend:**
 
 React.js: A JavaScript library for building user interfaces.
 Tailwind CSS: A utility-first CSS framework for quickly styling web applications.
 
-Backend:
+**Backend:**
 
 Node.js: A JavaScript runtime environment for building server-side applications.
 Express.js: A web application framework for Node.js, used for building RESTful APIs.
 
-Database:
+**Database:**
 
 MongoDB: A NoSQL database used for storing property data.
 
-Features
+**Features**
 
 User Authentication: Secure user authentication and authorization for accessing user-specific features and data.
 Property Listings: Browse, search, and filter through a wide range of property listings based on various criteria.
@@ -28,7 +28,7 @@ Property Details: View detailed information, images, and specifications for indi
 Listing Management: Allow property owners to list, edit, and manage their properties for sale or rent.
 Responsive Design: Fully responsive design ensures a consistent and user-friendly experience across devices.
 
-Installation
+**Installation**
 
 To run the Property Pulse application locally, follow these steps:
 
@@ -54,14 +54,14 @@ Copy code
 npm start
 Open your web browser and navigate to http://localhost:3000 to view the Property Pulse application.
 
-Contributing
+**Contributing**
 
 Contributions to the Property Pulse project are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request following the guidelines outlined in the CONTRIBUTING.md file.
 
-License
+**License**
 
 This project is licensed under the MIT License.
 
-Contact
+**Contact**
 
 For any inquiries or feedback regarding the Property Pulse project, please contact Tariq Kichawele.
