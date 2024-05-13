@@ -1,4 +1,4 @@
-#TARIQESTATES
+# TariqEstates
 
 TariqEstates is a full-stack real estate web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides users with a platform to browse, search, and explore properties, as well as list properties for sale or rent. The application is designed to be fully responsive, ensuring a seamless experience across devices.
 
